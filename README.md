@@ -97,6 +97,26 @@ final-project-level3-recsys-10
 └── 💾 requirements.txt
 ```
 
+<br>
+
+## 상세 설명
+### 1.EDA
+
+- [📜 EDA README](./EDA/README.md)
+
+### 2.Data Processing
+
+- [📜 Preprocessing README](./Preprocessing/README.md)
+
+### 3.Model
+
+- [📜 Model README](./Models/README.md)
+
+### 4.Ensemble
+
+- [📜 Ensemble README](./Ensemble/README.md)
+
+<br>
 ## 🏃‍ Run
 ```
 pip install -r requirements.txt
